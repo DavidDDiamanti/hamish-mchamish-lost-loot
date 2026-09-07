@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98a25695aa2112846970fc59db1e5d61, type: 3}
+  m_Name: LootTable
+  m_EditorClassIdentifier: 
+  chanceToDropAny: 1
+  entries:
+  - prefab: {fileID: 4824074161230197761, guid: d250cb6e340ebb04cb88c004c3d171d8, type: 3}
+    weight: 0.3
+  - prefab: {fileID: 4824074161230197761, guid: ba1b6d8a13234eb41a57aabcd3baba1b, type: 3}
+    weight: 0.3
+  - prefab: {fileID: 4824074161230197761, guid: 9b7c358fbe28ce549bb0be7ba833869a, type: 3}
+    weight: 0.3
+  - prefab: {fileID: 4824074161230197761, guid: 0e3fe9a835493ce4eb5c1dd7dcbb27b4, type: 3}
+    weight: 0.3
+  - prefab: {fileID: 4824074161230197761, guid: acf94671e5ac6ae42b6ee4b79588ba54, type: 3}
+    weight: 0.3
+  - prefab: {fileID: 4824074161230197761, guid: ab973dd511c3830408e5edf2e84993fc, type: 3}
+    weight: 0.3
+  - prefab: {fileID: 4824074161230197761, guid: a51430464f9cb6945aafb04b305e627b, type: 3}
+    weight: 0.3
+  - prefab: {fileID: 4824074161230197761, guid: fbf50c5a3d3f6ad41bf0d3156b7c9a7a, type: 3}
+    weight: 0.3
+  - prefab: {fileID: 4824074161230197761, guid: cd4ed7b5e9cdeed40b2a38cbe72fa4f1, type: 3}
+    weight: 0.3

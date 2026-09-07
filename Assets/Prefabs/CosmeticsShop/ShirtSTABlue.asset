@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a16aef6f4241e0488023e503c1a7456, type: 3}
+  m_Name: ShirtSTABlue
+  m_EditorClassIdentifier: 
+  id: shirt_STA_blue
+  displayName: Blue Cat STA Sweater Variant
+  description: 
+  icon: {fileID: 21300000, guid: 67840c40bf7bfb646b4a7003a85ff58e, type: 3}
+  category: 0
+  variantType: 1
+  requiredBaseItem: {fileID: 11400000, guid: 94cd632a302432a4c927da31fc3baad4, type: 2}
+  lootboxOnly: 0
+  cosmeticSprite: {fileID: 21300000, guid: 3e65b4a2c91ec4f4baa25fc529c0cc95, type: 3}
+  tint: {r: 0, g: 0, b: 1, a: 1}
+  gemPrice: 200

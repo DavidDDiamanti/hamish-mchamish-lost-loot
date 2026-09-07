@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98a25695aa2112846970fc59db1e5d61, type: 3}
+  m_Name: EnemyLootTable
+  m_EditorClassIdentifier: 
+  chanceToDropAny: 0.1
+  entries:
+  - prefab: {fileID: 4824074161230197761, guid: acf94671e5ac6ae42b6ee4b79588ba54, type: 3}
+    weight: 0
+  - prefab: {fileID: 4824074161230197761, guid: d250cb6e340ebb04cb88c004c3d171d8, type: 3}
+    weight: 0
+  - prefab: {fileID: 4824074161230197761, guid: cd4ed7b5e9cdeed40b2a38cbe72fa4f1, type: 3}
+    weight: 0

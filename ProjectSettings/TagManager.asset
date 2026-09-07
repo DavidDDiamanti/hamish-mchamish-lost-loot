@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - QuizUI
+  - Chest
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Detectable
+  - Water
+  - UI
+  - Player
+  - WorldBorder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 696746871
+    locked: 0
+  - name: Objects
+    uniqueID: 3244643023
+    locked: 0
+  - name: Enemies
+    uniqueID: 2724370081
+    locked: 0
+  - name: Player
+    uniqueID: 2117070145
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cursor
+    uniqueID: 3804124143
+    locked: 0

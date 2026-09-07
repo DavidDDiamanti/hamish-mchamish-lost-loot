@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a8ade60648325948b82744e8c9ebb43, type: 3}
+  m_Name: ShopItem_CursorAutoclicker
+  m_EditorClassIdentifier: 
+  id: cursor_autoclicker
+  displayName: Cursor Autoclicker Upgrade
+  description: 'An upgraded cursor which always clicks without needing input
+
+    (Warning
+    - opens chests as well)'
+  icon: {fileID: 21300000, guid: 265f41a38e5bf7b41b404edc9521b4c9, type: 3}
+  price: 5000
+  type: 2
+  maxLevel: 1
+  cursorPrefabUpgrade: {fileID: 0}
+  statType: 0
+  statAmountPerLevel: 1
+  featureType: 1
