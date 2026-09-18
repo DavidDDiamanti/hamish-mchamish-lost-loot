@@ -2,8 +2,6 @@
 
 A top-down rogue-lite educational game where players explore procedurally generated levels as a cat, dig up chests guarded by insect enemies, and answer multiple choice computer science questions to open them. Correct answers feed a streak multiplier and two currencies that buy permanent upgrades and cosmetics. I built it solo in Unity 2021.3.45f2 with C# as my BSc Computer Science dissertation at the University of St Andrews, adapting engagement systems from commercial games (progression loops, tiered upgrades, loot boxes) to established learning frameworks: Self-Determination Theory, Cognitive Load Theory and Flow. The character is modelled on Hamish McHamish, a real cat who was a local celebrity in St Andrews.
 
-[screenshot placeholder: replace with a gameplay capture]
-
 ## How to run it
 
 1. Install Unity Hub, then Unity Editor 2021.3.45f2 from the Installs tab.
